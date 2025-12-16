@@ -1,0 +1,12 @@
+# Build outputs
+*.exe
+*.obj
+*.ilk
+*.pdb
+*.idb
+*.log
+*.recipe
+
+# Visual Studio files
+*.user
+.vs/
